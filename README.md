@@ -156,13 +156,6 @@ To validate the quality of the enhanced images, the following quantitative metri
 
 ---
 
-## 🧩 Integration Notes
-- These enhanced images will be **used as input for Module 3**, where AI models will be trained for disease prediction and diagnostic support.
-- The improvement in contrast and clarity ensures that **ML and CNN-based models** can extract better features from images.
-- The enhanced datasets maintain compatibility with the cleaned structured data generated in **Module 1**.
-
----
-
 ## 📊 Visual Comparison
 Below is a sample before-and-after visualization generated during the enhancement process:
 
