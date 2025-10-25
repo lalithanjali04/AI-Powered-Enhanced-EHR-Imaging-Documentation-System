@@ -1,0 +1,929 @@
+xray_id,split,label,image_path
+X0001,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000058 (3).png
+X0002,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000039 (3).png
+X0003,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000089.png
+X0004,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000009 (4).png
+X0005,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/l6.png
+X0006,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000076 (3).png
+X0007,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000027 (2).png
+X0008,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000051.png
+X0009,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000045.png
+X0010,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000040 (2).png
+X0011,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000056 (4).png
+X0012,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000057.png
+X0013,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000084 (2).png
+X0014,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000017.png
+X0015,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000055 (4).png
+X0016,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000010.png
+X0017,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000143.png
+X0018,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000065 (2).png
+X0019,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000021.png
+X0020,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000039 (4).png
+X0021,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000043 (2).png
+X0022,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000105.png
+X0023,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000095 (2).png
+X0024,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000041 (3).png
+X0025,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000097 (2).png
+X0026,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000031 (2).png
+X0027,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000105 (2).png
+X0028,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000063.png
+X0029,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000062 (4).png
+X0030,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000078 (3).png
+X0031,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000046.png
+X0032,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/l3.png
+X0033,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000104 (2).png
+X0034,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000080.png
+X0035,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000019 (4).png
+X0036,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000095 (3).png
+X0037,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000173.png
+X0038,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000057 (3).png
+X0039,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000041.png
+X0040,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000093 (3).png
+X0041,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000068.png
+X0042,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000078 (4).png
+X0043,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000094 (2).png
+X0044,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000026 (2).png
+X0045,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000034 (2).png
+X0046,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000069.png
+X0047,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000106.png
+X0048,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000068 (4).png
+X0049,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000093 (4).png
+X0050,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000009 (3).png
+X0051,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000002.png
+X0052,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000066.png
+X0053,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000062 (3).png
+X0054,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000023 (2).png
+X0055,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000057 (4).png
+X0056,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000020 (4).png
+X0057,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000047 (2).png
+X0058,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000063 (2).png
+X0059,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000055 (3).png
+X0060,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/l5.png
+X0061,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000154.png
+X0062,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000033 (4).png
+X0063,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000059 (4).png
+X0064,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000055.png
+X0065,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000024 (2).png
+X0066,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000003 (3).png
+X0067,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000072 (2).png
+X0068,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000137.png
+X0069,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000031.png
+X0070,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000056 (3).png
+X0071,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000032.png
+X0072,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000018 (2).png
+X0073,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000150.png
+X0074,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000041 (4).png
+X0075,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/l4.png
+X0076,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000068 (3).png
+X0077,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000016 (3).png
+X0078,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000172.png
+X0079,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000020 (3).png
+X0080,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000098 (3).png
+X0081,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/l2.png
+X0082,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000095 (4).png
+X0083,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000094 (3).png
+X0084,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000066 (2).png
+X0085,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000003 (4).png
+X0086,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000104.png
+X0087,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/l1.png
+X0088,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000106 (2).png
+X0089,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/di1.png
+X0090,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000094 (4).png
+X0091,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000098 (4).png
+X0092,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000077.png
+X0093,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000059 (3).png
+X0094,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000027.png
+X0095,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000076 (4).png
+X0096,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000071 (2).png
+X0097,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000073 (2).png
+X0098,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000019 (3).png
+X0099,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000133.png
+X0100,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000062 (2).png
+X0101,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000026.png
+X0102,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000159.png
+X0103,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000058 (4).png
+X0104,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000060.png
+X0105,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000042 (2).png
+X0106,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000081.png
+X0107,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000084.png
+X0108,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000062.png
+X0109,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000095.png
+X0110,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000033 (3).png
+X0111,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000015.png
+X0112,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000149.png
+X0113,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000169.png
+X0114,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000016 (4).png
+X0115,train,large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa,/content/xray_data/XraysData/train/large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa/000097.png
+X0116,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000048.png
+X0117,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058 (3).png
+X0118,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000091 (7).png
+X0119,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000030 (5).png
+X0120,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (7).png
+X0121,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000084 (7).png
+X0122,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq4.png
+X0123,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000004 (7).png
+X0124,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000043 (3).png
+X0125,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000051 (3).png
+X0126,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000093.png
+X0127,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000027 (2).png
+X0128,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000121.png
+X0129,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (6).png
+X0130,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (2).png
+X0131,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000105 (5).png
+X0132,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000081 (3).png
+X0133,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (5).png
+X0134,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000070 (2).png
+X0135,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000096.png
+X0136,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000060 (2).png
+X0137,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000015 (7).png
+X0138,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (6).png
+X0139,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (5).png
+X0140,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000050 (6).png
+X0141,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000008 (3).png
+X0142,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000100 (4).png
+X0143,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000052 (4).png
+X0144,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000028 (4).png
+X0145,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058.png
+X0146,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000074 (6).png
+X0147,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000088.png
+X0148,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq2.png
+X0149,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000090 (6).png
+X0150,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000084 (5).png
+X0151,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000006 (4).png
+X0152,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000064 (4).png
+X0153,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000105 (7).png
+X0154,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000078.png
+X0155,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000028 (5).png
+X0156,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000035 (5).png
+X0157,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (7).png
+X0158,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000030 (7).png
+X0159,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000024 (5).png
+X0160,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000077 (4).png
+X0161,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq3.png
+X0162,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000063.png
+X0163,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (2).png
+X0164,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000082 (3).png
+X0165,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (3).png
+X0166,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (6).png
+X0167,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000104 (2).png
+X0168,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (4).png
+X0169,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000121 (2).png
+X0170,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000063 (3).png
+X0171,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000099 (2).png
+X0172,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (3).png
+X0173,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000062 (7).png
+X0174,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000038 (5).png
+X0175,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058 (5).png
+X0176,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000037 (2).png
+X0177,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000084 (3).png
+X0178,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (4).png
+X0179,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (5).png
+X0180,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000065 (5).png
+X0181,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000085.png
+X0182,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000068 (4).png
+X0183,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000056 (7).png
+X0184,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000066.png
+X0185,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000065 (7).png
+X0186,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (4).png
+X0187,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000070.png
+X0188,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (4).png
+X0189,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000075.png
+X0190,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000055 (3).png
+X0191,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000003.png
+X0192,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000079 (7).png
+X0193,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000030 (2).png
+X0194,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq6.png
+X0195,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000079.png
+X0196,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000089 (4).png
+X0197,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (7).png
+X0198,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000010 (6).png
+X0199,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000009 (2).png
+X0200,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (3).png
+X0201,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000007.png
+X0202,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058 (7).png
+X0203,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000055 (2).png
+X0204,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (5).png
+X0205,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000096 (2).png
+X0206,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000054.png
+X0207,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000017 (4).png
+X0208,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000002 (4).png
+X0209,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000081 (6).png
+X0210,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000078 (5).png
+X0211,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000018 (6).png
+X0212,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000069 (2).png
+X0213,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000032.png
+X0214,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000079 (5).png
+X0215,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000063 (6).png
+X0216,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000007 (4).png
+X0217,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (5).png
+X0218,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000041 (4).png
+X0219,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000049 (3).png
+X0220,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000077 (5).png
+X0221,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000016 (3).png
+X0222,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000006.png
+X0223,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000053 (6).png
+X0224,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000122.png
+X0225,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000082 (4).png
+X0226,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000101 (3).png
+X0227,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000002 (6).png
+X0228,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000091 (5).png
+X0229,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000073 (6).png
+X0230,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000094.png
+X0231,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000094 (3).png
+X0232,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (6).png
+X0233,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000053.png
+X0234,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000071 (3).png
+X0235,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000066 (2).png
+X0236,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000015 (5).png
+X0237,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000074 (5).png
+X0238,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000104.png
+X0239,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000056 (5).png
+X0240,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (7).png
+X0241,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000048 (7).png
+X0242,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000062 (5).png
+X0243,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000038 (7).png
+X0244,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000043.png
+X0245,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000028 (7).png
+X0246,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000013 (6).png
+X0247,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000004 (4).png
+X0248,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000050 (2).png
+X0249,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000036 (4).png
+X0250,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000077 (2).png
+X0251,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000103.png
+X0252,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000029 (4).png
+X0253,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000024 (7).png
+X0254,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (7).png
+X0255,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000122 (3).png
+X0256,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000004 (5).png
+X0257,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000054 (3).png
+X0258,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000081.png
+X0259,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000044 (2).png
+X0260,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq1.png
+X0261,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000038 (2).png
+X0262,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000035.png
+X0263,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (6).png
+X0264,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000074 (7).png
+X0265,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000099 (3).png
+X0266,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000078 (7).png
+X0267,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000048 (5).png
+X0268,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq5.png
+X0269,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (2).png
+X0270,train,squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa,/content/xray_data/XraysData/train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000033.png
+X0271,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000048.png
+X0272,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000093 (10).png
+X0273,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad5.png
+X0274,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000104 (4).png
+X0275,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000086 (8).png
+X0276,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000091 (7).png
+X0277,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054 (6).png
+X0278,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad6.png
+X0279,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad19.png
+X0280,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000049 (5).png
+X0281,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000105 (4).png
+X0282,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084 (7).png
+X0283,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000051 (3).png
+X0284,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000087 (8).png
+X0285,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102 (3).png
+X0286,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (6).png
+X0287,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000121.png
+X0288,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (5).png
+X0289,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000086 (3).png
+X0290,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000089 (8).png
+X0291,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000009 (7).png
+X0292,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000032 (8).png
+X0293,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024.png
+X0294,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000077 (9).png
+X0295,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000057.png
+X0296,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000100 (10).png
+X0297,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084 (2).png
+X0298,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102.png
+X0299,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000046 (5).png
+X0300,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000014 (7).png
+X0301,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000052 (10).png
+X0302,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000118 (6).png
+X0303,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000061.png
+X0304,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000096 (7).png
+X0305,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000121 (10).png
+X0306,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000051 (4).png
+X0307,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (10).png
+X0308,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (8).png
+X0309,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000098 (8).png
+X0310,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000015 (10).png
+X0311,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000029 (9).png
+X0312,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000026 (10).png
+X0313,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000105.png
+X0314,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000079 (6).png
+X0315,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000081 (2).png
+X0316,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000063 (5).png
+X0317,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000042 (10).png
+X0318,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000027 (4).png
+X0319,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad21.png
+X0320,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (2).png
+X0321,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (5).png
+X0322,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000017 (6).png
+X0323,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000097 (2).png
+X0324,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (5).png
+X0325,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (8).png
+X0326,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad7.png
+X0327,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (4).png
+X0328,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000063 (7).png
+X0329,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000008 (10).png
+X0330,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad8.png
+X0331,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022.png
+X0332,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000016 (9).png
+X0333,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000098 (5).png
+X0334,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054 (7).png
+X0335,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000048 (8).png
+X0336,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000103 (9).png
+X0337,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024 (6).png
+X0338,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000091.png
+X0339,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000015 (9).png
+X0340,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000099 (7).png
+X0341,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000063 (3).png
+X0342,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000017 (8).png
+X0343,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000069 (6).png
+X0344,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000083 (3).png
+X0345,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000058 (5).png
+X0346,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (6).png
+X0347,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000033 (9).png
+X0348,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000066 (9).png
+X0349,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000013 (4).png
+X0350,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (8).png
+X0351,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000059 (7).png
+X0352,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084 (3).png
+X0353,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000034 (6).png
+X0354,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad20.png
+X0355,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000106 (4).png
+X0356,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000101 (7).png
+X0357,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad14.png
+X0358,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000093 (4).png
+X0359,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000009 (3).png
+X0360,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000056 (7).png
+X0361,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000020 (5).png
+X0362,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000067.png
+X0363,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000013 (8).png
+X0364,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000097 (3).png
+X0365,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad1.png
+X0366,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (9).png
+X0367,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (3).png
+X0368,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000031 (3).png
+X0369,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000093 (6).png
+X0370,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000095 (6).png
+X0371,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000005 (9).png
+X0372,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000005 (3).png
+X0373,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad4.png
+X0374,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad22.png
+X0375,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000092 (10).png
+X0376,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000019 (5).png
+X0377,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000068 (9).png
+X0378,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000044 (10).png
+X0379,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000055 (2).png
+X0380,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054.png
+X0381,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000077 (6).png
+X0382,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000104 (10).png
+X0383,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (4).png
+X0384,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad2.png
+X0385,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000080 (10).png
+X0386,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000065 (3).png
+X0387,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000029 (5).png
+X0388,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (3).png
+X0389,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024 (10).png
+X0390,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000078 (6).png
+X0391,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000085 (10).png
+X0392,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (4).png
+X0393,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000020 (6).png
+X0394,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (6).png
+X0395,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (4).png
+X0396,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000106 (10).png
+X0397,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000106 (8).png
+X0398,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000068 (3).png
+X0399,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000027 (6).png
+X0400,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000067 (10).png
+X0401,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000085 (7).png
+X0402,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad17.png
+X0403,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000015 (4).png
+X0404,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000030 (4).png
+X0405,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (7).png
+X0406,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000121 (9).png
+X0407,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000036 (7).png
+X0408,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000122.png
+X0409,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000018 (5).png
+X0410,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000085 (4).png
+X0411,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000025 (6).png
+X0412,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad11.png
+X0413,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000080 (6).png
+X0414,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad18.png
+X0415,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad9.png
+X0416,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000118 (4).png
+X0417,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad10.png
+X0418,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (10).png
+X0419,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (8).png
+X0420,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad16.png
+X0421,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (8).png
+X0422,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000071 (3).png
+X0423,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000087 (4).png
+X0424,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000091 (3).png
+X0425,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000074 (5).png
+X0426,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad3.png
+X0427,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (7).png
+X0428,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000097 (10).png
+X0429,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000026 (3).png
+X0430,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000065 (9).png
+X0431,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000072 (10).png
+X0432,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000075 (5).png
+X0433,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000036 (6).png
+X0434,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (10).png
+X0435,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000068 (10).png
+X0436,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000090 (2).png
+X0437,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000065 (8).png
+X0438,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad12.png
+X0439,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000029 (4).png
+X0440,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000040 (10).png
+X0441,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024 (7).png
+X0442,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (7).png
+X0443,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102 (2).png
+X0444,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000066 (10).png
+X0445,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054 (5).png
+X0446,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000105 (3).png
+X0447,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (5).png
+X0448,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000049 (9).png
+X0449,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000040 (5).png
+X0450,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000058 (4).png
+X0451,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000044 (9).png
+X0452,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084.png
+X0453,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad15.png
+X0454,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000020 (10).png
+X0455,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000107 (9).png
+X0456,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000095.png
+X0457,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000000 (6).png
+X0458,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (2).png
+X0459,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000040 (3).png
+X0460,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (5).png
+X0461,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102 (7).png
+X0462,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000083 (6).png
+X0463,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad13.png
+X0464,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000057 (2).png
+X0465,train,adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib,/content/xray_data/XraysData/train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (9).png
+X0466,train,normal,/content/xray_data/XraysData/train/normal/19 - Copy (2) - Copy.png
+X0467,train,normal,/content/xray_data/XraysData/train/normal/17 - Copy (2).png
+X0468,train,normal,/content/xray_data/XraysData/train/normal/17.png
+X0469,train,normal,/content/xray_data/XraysData/train/normal/10 - Copy (2).png
+X0470,train,normal,/content/xray_data/XraysData/train/normal/19 - Copy - Copy.png
+X0471,train,normal,/content/xray_data/XraysData/train/normal/11 - Copy (2) - Copy.png
+X0472,train,normal,/content/xray_data/XraysData/train/normal/3 - Copy (3).png
+X0473,train,normal,/content/xray_data/XraysData/train/normal/n6 (2) - Copy.jpg
+X0474,train,normal,/content/xray_data/XraysData/train/normal/11 - Copy.png
+X0475,train,normal,/content/xray_data/XraysData/train/normal/13 - Copy (2).png
+X0476,train,normal,/content/xray_data/XraysData/train/normal/21 - Copy (2).png
+X0477,train,normal,/content/xray_data/XraysData/train/normal/3 - Copy - Copy.png
+X0478,train,normal,/content/xray_data/XraysData/train/normal/n6 (2).jpg
+X0479,train,normal,/content/xray_data/XraysData/train/normal/5 - Copy (2).png
+X0480,train,normal,/content/xray_data/XraysData/train/normal/12 - Copy (3).png
+X0481,train,normal,/content/xray_data/XraysData/train/normal/6 (2) - Copy.png
+X0482,train,normal,/content/xray_data/XraysData/train/normal/19 (2) - Copy.png
+X0483,train,normal,/content/xray_data/XraysData/train/normal/8 - Copy (2) - Copy.png
+X0484,train,normal,/content/xray_data/XraysData/train/normal/10 - Copy.png
+X0485,train,normal,/content/xray_data/XraysData/train/normal/18 - Copy - Copy.png
+X0486,train,normal,/content/xray_data/XraysData/train/normal/3 (2) - Copy.png
+X0487,train,normal,/content/xray_data/XraysData/train/normal/19 - Copy (3).png
+X0488,train,normal,/content/xray_data/XraysData/train/normal/4 - Copy (2).png
+X0489,train,normal,/content/xray_data/XraysData/train/normal/6 - Copy - Copy.png
+X0490,train,normal,/content/xray_data/XraysData/train/normal/8.png
+X0491,train,normal,/content/xray_data/XraysData/train/normal/20 - Copy (3).png
+X0492,train,normal,/content/xray_data/XraysData/train/normal/5 (2) - Copy.png
+X0493,train,normal,/content/xray_data/XraysData/train/normal/21 - Copy - Copy.png
+X0494,train,normal,/content/xray_data/XraysData/train/normal/20 - Copy - Copy.png
+X0495,train,normal,/content/xray_data/XraysData/train/normal/4 (2) - Copy.png
+X0496,train,normal,/content/xray_data/XraysData/train/normal/6.png
+X0497,train,normal,/content/xray_data/XraysData/train/normal/6 (2).png
+X0498,train,normal,/content/xray_data/XraysData/train/normal/7.png
+X0499,train,normal,/content/xray_data/XraysData/train/normal/11 - Copy (2).png
+X0500,train,normal,/content/xray_data/XraysData/train/normal/2 - Copy.png
+X0501,train,normal,/content/xray_data/XraysData/train/normal/8 - Copy.png
+X0502,train,normal,/content/xray_data/XraysData/train/normal/19 (2).png
+X0503,train,normal,/content/xray_data/XraysData/train/normal/12 (2) - Copy.png
+X0504,train,normal,/content/xray_data/XraysData/train/normal/n8 - Copy.jpg
+X0505,train,normal,/content/xray_data/XraysData/train/normal/4 - Copy - Copy.png
+X0506,train,normal,/content/xray_data/XraysData/train/normal/7 - Copy (2) - Copy.png
+X0507,train,normal,/content/xray_data/XraysData/train/normal/2 (2) - Copy.png
+X0508,train,normal,/content/xray_data/XraysData/train/normal/4.png
+X0509,train,normal,/content/xray_data/XraysData/train/normal/5 - Copy.png
+X0510,train,normal,/content/xray_data/XraysData/train/normal/16 - Copy (2).png
+X0511,train,normal,/content/xray_data/XraysData/train/normal/2 - Copy (3).png
+X0512,train,normal,/content/xray_data/XraysData/train/normal/n6 - Copy.jpg
+X0513,train,normal,/content/xray_data/XraysData/train/normal/10 - Copy - Copy.png
+X0514,train,normal,/content/xray_data/XraysData/train/normal/18 - Copy (3).png
+X0515,train,normal,/content/xray_data/XraysData/train/normal/6 - Copy (2).png
+X0516,train,normal,/content/xray_data/XraysData/train/normal/11 (2) - Copy.png
+X0517,train,normal,/content/xray_data/XraysData/train/normal/19.png
+X0518,train,normal,/content/xray_data/XraysData/train/normal/17 (2) - Copy.png
+X0519,train,normal,/content/xray_data/XraysData/train/normal/20 - Copy (2).png
+X0520,train,normal,/content/xray_data/XraysData/train/normal/20 (2).png
+X0521,train,normal,/content/xray_data/XraysData/train/normal/18 (2) - Copy.png
+X0522,train,normal,/content/xray_data/XraysData/train/normal/7 - Copy (3).png
+X0523,train,normal,/content/xray_data/XraysData/train/normal/12 (2).png
+X0524,train,normal,/content/xray_data/XraysData/train/normal/2.png
+X0525,train,normal,/content/xray_data/XraysData/train/normal/6 - Copy (3).png
+X0526,train,normal,/content/xray_data/XraysData/train/normal/3.png
+X0527,train,normal,/content/xray_data/XraysData/train/normal/2 - Copy (2).png
+X0528,train,normal,/content/xray_data/XraysData/train/normal/13 (2).png
+X0529,train,normal,/content/xray_data/XraysData/train/normal/4 - Copy.png
+X0530,train,normal,/content/xray_data/XraysData/train/normal/8 - Copy - Copy.png
+X0531,train,normal,/content/xray_data/XraysData/train/normal/21 - Copy.png
+X0532,train,normal,/content/xray_data/XraysData/train/normal/17 (2).png
+X0533,train,normal,/content/xray_data/XraysData/train/normal/18 - Copy (2).png
+X0534,train,normal,/content/xray_data/XraysData/train/normal/17 - Copy - Copy.png
+X0535,train,normal,/content/xray_data/XraysData/train/normal/n9 (2) - Copy.jpg
+X0536,train,normal,/content/xray_data/XraysData/train/normal/12 - Copy - Copy.png
+X0537,train,normal,/content/xray_data/XraysData/train/normal/19 - Copy (2).png
+X0538,train,normal,/content/xray_data/XraysData/train/normal/4 - Copy (3).png
+X0539,train,normal,/content/xray_data/XraysData/train/normal/11 - Copy - Copy.png
+X0540,train,normal,/content/xray_data/XraysData/train/normal/17 - Copy (2) - Copy.png
+X0541,train,normal,/content/xray_data/XraysData/train/normal/n7 (2).png
+X0542,train,normal,/content/xray_data/XraysData/train/normal/10 - Copy (3).png
+X0543,train,normal,/content/xray_data/XraysData/train/normal/n8 (2).jpg
+X0544,train,normal,/content/xray_data/XraysData/train/normal/5 - Copy (2) - Copy.png
+X0545,train,normal,/content/xray_data/XraysData/train/normal/19 - Copy.png
+X0546,train,normal,/content/xray_data/XraysData/train/normal/5 - Copy (3).png
+X0547,train,normal,/content/xray_data/XraysData/train/normal/13 - Copy.png
+X0548,train,normal,/content/xray_data/XraysData/train/normal/18 - Copy (2) - Copy.png
+X0549,train,normal,/content/xray_data/XraysData/train/normal/2 (2).png
+X0550,train,normal,/content/xray_data/XraysData/train/normal/13 (2) - Copy.png
+X0551,train,normal,/content/xray_data/XraysData/train/normal/7 - Copy.png
+X0552,train,normal,/content/xray_data/XraysData/train/normal/6 - Copy.png
+X0553,train,normal,/content/xray_data/XraysData/train/normal/10 (2).png
+X0554,train,normal,/content/xray_data/XraysData/train/normal/7 (2).png
+X0555,train,normal,/content/xray_data/XraysData/train/normal/10 (2) - Copy.png
+X0556,train,normal,/content/xray_data/XraysData/train/normal/n8.jpg
+X0557,train,normal,/content/xray_data/XraysData/train/normal/16 - Copy (3).png
+X0558,train,normal,/content/xray_data/XraysData/train/normal/17 - Copy.png
+X0559,train,normal,/content/xray_data/XraysData/train/normal/20 (2) - Copy.png
+X0560,train,normal,/content/xray_data/XraysData/train/normal/3 - Copy.png
+X0561,train,normal,/content/xray_data/XraysData/train/normal/18 (2).png
+X0562,train,normal,/content/xray_data/XraysData/train/normal/20.png
+X0563,train,normal,/content/xray_data/XraysData/train/normal/12 - Copy (2) - Copy.png
+X0564,train,normal,/content/xray_data/XraysData/train/normal/11.png
+X0565,train,normal,/content/xray_data/XraysData/train/normal/20 - Copy (2) - Copy.png
+X0566,train,normal,/content/xray_data/XraysData/train/normal/n7 (2) - Copy.png
+X0567,train,normal,/content/xray_data/XraysData/train/normal/5 - Copy - Copy.png
+X0568,train,normal,/content/xray_data/XraysData/train/normal/16 - Copy (2) - Copy.png
+X0569,train,normal,/content/xray_data/XraysData/train/normal/5 (2).png
+X0570,train,normal,/content/xray_data/XraysData/train/normal/20 - Copy.png
+X0571,train,normal,/content/xray_data/XraysData/train/normal/8 (2) - Copy.png
+X0572,train,normal,/content/xray_data/XraysData/train/normal/n8 (2) - Copy.jpg
+X0573,train,normal,/content/xray_data/XraysData/train/normal/2 - Copy (2) - Copy.png
+X0574,train,normal,/content/xray_data/XraysData/train/normal/7 - Copy (2).png
+X0575,train,normal,/content/xray_data/XraysData/train/normal/21 - Copy (2) - Copy.png
+X0576,train,normal,/content/xray_data/XraysData/train/normal/8 - Copy (2).png
+X0577,train,normal,/content/xray_data/XraysData/train/normal/16 (2) - Copy.png
+X0578,train,normal,/content/xray_data/XraysData/train/normal/16.png
+X0579,train,normal,/content/xray_data/XraysData/train/normal/12 - Copy (2).png
+X0580,train,normal,/content/xray_data/XraysData/train/normal/n6.jpg
+X0581,train,normal,/content/xray_data/XraysData/train/normal/2 - Copy - Copy.png
+X0582,train,normal,/content/xray_data/XraysData/train/normal/11 - Copy (3).png
+X0583,train,normal,/content/xray_data/XraysData/train/normal/n9 - Copy.jpg
+X0584,train,normal,/content/xray_data/XraysData/train/normal/3 (2).png
+X0585,train,normal,/content/xray_data/XraysData/train/normal/13 - Copy (2) - Copy.png
+X0586,train,normal,/content/xray_data/XraysData/train/normal/7 - Copy - Copy.png
+X0587,train,normal,/content/xray_data/XraysData/train/normal/6 - Copy (2) - Copy.png
+X0588,train,normal,/content/xray_data/XraysData/train/normal/8 - Copy (3).png
+X0589,train,normal,/content/xray_data/XraysData/train/normal/17 - Copy (3).png
+X0590,train,normal,/content/xray_data/XraysData/train/normal/10 - Copy (2) - Copy.png
+X0591,train,normal,/content/xray_data/XraysData/train/normal/3 - Copy (2) - Copy.png
+X0592,train,normal,/content/xray_data/XraysData/train/normal/4 - Copy (2) - Copy.png
+X0593,train,normal,/content/xray_data/XraysData/train/normal/12.png
+X0594,train,normal,/content/xray_data/XraysData/train/normal/16 - Copy.png
+X0595,train,normal,/content/xray_data/XraysData/train/normal/13 - Copy (3).png
+X0596,train,normal,/content/xray_data/XraysData/train/normal/5.png
+X0597,train,normal,/content/xray_data/XraysData/train/normal/12 - Copy.png
+X0598,train,normal,/content/xray_data/XraysData/train/normal/n7 - Copy.png
+X0599,train,normal,/content/xray_data/XraysData/train/normal/n9 (2).jpg
+X0600,train,normal,/content/xray_data/XraysData/train/normal/13 - Copy - Copy.png
+X0601,train,normal,/content/xray_data/XraysData/train/normal/4 (2).png
+X0602,train,normal,/content/xray_data/XraysData/train/normal/8 (2).png
+X0603,train,normal,/content/xray_data/XraysData/train/normal/11 (2).png
+X0604,train,normal,/content/xray_data/XraysData/train/normal/16 - Copy - Copy.png
+X0605,train,normal,/content/xray_data/XraysData/train/normal/16 (2).png
+X0606,train,normal,/content/xray_data/XraysData/train/normal/10.png
+X0607,train,normal,/content/xray_data/XraysData/train/normal/13.png
+X0608,train,normal,/content/xray_data/XraysData/train/normal/n7.png
+X0609,train,normal,/content/xray_data/XraysData/train/normal/18 - Copy.png
+X0610,train,normal,/content/xray_data/XraysData/train/normal/n9.jpg
+X0611,train,normal,/content/xray_data/XraysData/train/normal/18.png
+X0612,train,normal,/content/xray_data/XraysData/train/normal/7 (2) - Copy.png
+X0613,train,normal,/content/xray_data/XraysData/train/normal/3 - Copy (2).png
+X0614,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000131.png
+X0615,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000160.png
+X0616,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000163.png
+X0617,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000127 (2).png
+X0618,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000120.png
+X0619,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000111.png
+X0620,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000108.png
+X0621,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000143.png
+X0622,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000170.png
+X0623,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000131 (2).png
+X0624,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000133 (2).png
+X0625,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000173 (2).png
+X0626,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000124 (2).png
+X0627,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000128 (2).png
+X0628,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000174.png
+X0629,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000171.png
+X0630,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000173.png
+X0631,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000154 (2).png
+X0632,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000114.png
+X0633,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000132 (2).png
+X0634,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000141.png
+X0635,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000147 (2).png
+X0636,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000136 (2).png
+X0637,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000115 (2).png
+X0638,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000130.png
+X0639,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000162.png
+X0640,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000154.png
+X0641,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000118.png
+X0642,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000137.png
+X0643,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000126.png
+X0644,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000155.png
+X0645,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000150.png
+X0646,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000113 (2).png
+X0647,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000172.png
+X0648,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000113.png
+X0649,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000122.png
+X0650,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000148 (2).png
+X0651,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000172 (2).png
+X0652,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000128.png
+X0653,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000110.png
+X0654,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000116.png
+X0655,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000123.png
+X0656,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000158.png
+X0657,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000111 (2).png
+X0658,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000133.png
+X0659,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000138 (2).png
+X0660,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000159 (2).png
+X0661,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000159.png
+X0662,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000148.png
+X0663,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000149.png
+X0664,test,large.cell.carcinoma,/content/xray_data/XraysData/test/large.cell.carcinoma/000169.png
+X0665,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000171 (5).png
+X0666,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000116 (9).png
+X0667,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000153 (5).png
+X0668,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000158 (2).png
+X0669,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000156 (4).png
+X0670,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000116 (5).png
+X0671,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000136 (8).png
+X0672,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000173 (7).png
+X0673,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000158 (5).png
+X0674,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000149 (7).png
+X0675,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000120.png
+X0676,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000129 (5).png
+X0677,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000138 (6).png
+X0678,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000151 (5).png
+X0679,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000125 (8).png
+X0680,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000121.png
+X0681,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000134 (2).png
+X0682,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000119 (5).png
+X0683,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000174 (4).png
+X0684,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000134 (9).png
+X0685,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000118 (7).png
+X0686,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000121 (6).png
+X0687,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000166 (3).png
+X0688,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000127 (5).png
+X0689,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000165 (6).png
+X0690,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000157 (6).png
+X0691,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000139 (5).png
+X0692,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000135 (5).png
+X0693,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000145 (9).png
+X0694,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000137 (8).png
+X0695,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000124 (6).png
+X0696,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000131 (2).png
+X0697,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000133 (2).png
+X0698,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000123 (6).png
+X0699,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000160 (4).png
+X0700,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000146 (6).png
+X0701,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000133 (4).png
+X0702,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000126 (6).png
+X0703,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000123 (4).png
+X0704,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000139 (6).png
+X0705,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000167 (3).png
+X0706,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000144 (2).png
+X0707,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000160 (6).png
+X0708,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000115 (4).png
+X0709,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000123 (9).png
+X0710,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000143 (5).png
+X0711,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000122 (4).png
+X0712,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000171.png
+X0713,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000115.png
+X0714,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000109 (5).png
+X0715,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000109 (4).png
+X0716,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000109 (2).png
+X0717,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000141 (2).png
+X0718,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000114.png
+X0719,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000166 (2).png
+X0720,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000147.png
+X0721,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000139 (9).png
+X0722,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000142.png
+X0723,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000125 (2).png
+X0724,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000132 (2).png
+X0725,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000129.png
+X0726,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000167 (8).png
+X0727,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000158 (6).png
+X0728,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000136 (2).png
+X0729,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000157 (5).png
+X0730,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000130 (6).png
+X0731,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000132.png
+X0732,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000140.png
+X0733,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000132 (8).png
+X0734,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000148 (8).png
+X0735,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000119 (4).png
+X0736,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000177 (4).png
+X0737,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000161 (5).png
+X0738,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000163 (7).png
+X0739,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000124 (9).png
+X0740,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000173 (5).png
+X0741,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000155.png
+X0742,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000134.png
+X0743,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000168 (3).png
+X0744,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000119 (6).png
+X0745,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000128 (5).png
+X0746,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000121 (7).png
+X0747,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000112 (2).png
+X0748,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000161 (4).png
+X0749,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000177.png
+X0750,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000149 (2).png
+X0751,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000172 (3).png
+X0752,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000158 (3).png
+X0753,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000122.png
+X0754,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000132 (7).png
+X0755,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000117.png
+X0756,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000116 (7).png
+X0757,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000164 (5).png
+X0758,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000149 (4).png
+X0759,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000117 (4).png
+X0760,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000138 (9).png
+X0761,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000114 (5).png
+X0762,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000118 (5).png
+X0763,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000148 (3).png
+X0764,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000115 (8).png
+X0765,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000125 (5).png
+X0766,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000158.png
+X0767,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000137 (2).png
+X0768,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000125 (6).png
+X0769,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000137 (4).png
+X0770,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000143 (6).png
+X0771,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000139 (8).png
+X0772,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000146 (3).png
+X0773,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000166 (4).png
+X0774,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000108 (3).png
+X0775,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000155 (4).png
+X0776,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000176 (2).png
+X0777,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000148.png
+X0778,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000163 (3).png
+X0779,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000144 (5).png
+X0780,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000148 (6).png
+X0781,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000139.png
+X0782,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000113 (7).png
+X0783,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000117 (8).png
+X0784,test,adenocarcinoma,/content/xray_data/XraysData/test/adenocarcinoma/000125 (4).png
+X0785,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000135 (4).png
+X0786,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000116 (5).png
+X0787,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000142 (6).png
+X0788,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000153 (3).png
+X0789,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000127 (2).png
+X0790,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000130 (4).png
+X0791,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000108 (6).png
+X0792,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000121.png
+X0793,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000111.png
+X0794,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000134 (5).png
+X0795,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000153.png
+X0796,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000139 (4).png
+X0797,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000172 (6).png
+X0798,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000168 (2).png
+X0799,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000167 (2).png
+X0800,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000119.png
+X0801,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000157 (6).png
+X0802,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000139 (5).png
+X0803,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000133 (3).png
+X0804,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000174 (3).png
+X0805,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000154 (3).png
+X0806,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000133 (2).png
+X0807,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000160 (4).png
+X0808,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000146 (6).png
+X0809,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000163 (4).png
+X0810,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000177 (3).png
+X0811,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000120 (2).png
+X0812,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000120 (5).png
+X0813,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000117 (5).png
+X0814,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000154 (4).png
+X0815,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000139 (6).png
+X0816,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000127.png
+X0817,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000120 (3).png
+X0818,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000115 (4).png
+X0819,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000117 (2).png
+X0820,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000154 (2).png
+X0821,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000141 (2).png
+X0822,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000129 (6).png
+X0823,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000124 (4).png
+X0824,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000155 (3).png
+X0825,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000141 (4).png
+X0826,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000159 (5).png
+X0827,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000125 (2).png
+X0828,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000158 (6).png
+X0829,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000129 (2).png
+X0830,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000151.png
+X0831,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000156 (2).png
+X0832,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000163 (5).png
+X0833,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000162.png
+X0834,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000115 (5).png
+X0835,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000131 (6).png
+X0836,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000119 (4).png
+X0837,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000158 (4).png
+X0838,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000137.png
+X0839,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000136 (4).png
+X0840,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000110 (2).png
+X0841,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000155.png
+X0842,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000153 (4).png
+X0843,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000126 (4).png
+X0844,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000117 (3).png
+X0845,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000136 (6).png
+X0846,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000122.png
+X0847,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000145 (6).png
+X0848,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000163 (6).png
+X0849,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000127 (6).png
+X0850,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000164 (5).png
+X0851,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000118 (4).png
+X0852,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000149 (4).png
+X0853,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000112.png
+X0854,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000137 (3).png
+X0855,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000125.png
+X0856,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000170 (2).png
+X0857,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000121 (5).png
+X0858,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000148 (3).png
+X0859,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000124 (5).png
+X0860,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000114 (3).png
+X0861,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000114 (2).png
+X0862,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000125 (6).png
+X0863,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000142 (5).png
+X0864,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000124.png
+X0865,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000122 (6).png
+X0866,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000118 (3).png
+X0867,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000151 (6).png
+X0868,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000148 (4).png
+X0869,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000166 (4).png
+X0870,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000169 (6).png
+X0871,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000144 (5).png
+X0872,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000132 (4).png
+X0873,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000162 (2).png
+X0874,test,squamous.cell.carcinoma,/content/xray_data/XraysData/test/squamous.cell.carcinoma/000135.png
+X0875,test,normal,/content/xray_data/XraysData/test/normal/10 - Copy (2).png
+X0876,test,normal,/content/xray_data/XraysData/test/normal/normal.png
+X0877,test,normal,/content/xray_data/XraysData/test/normal/11 - Copy (2) - Copy.png
+X0878,test,normal,/content/xray_data/XraysData/test/normal/11 - Copy.png
+X0879,test,normal,/content/xray_data/XraysData/test/normal/12 - Copy (3).png
+X0880,test,normal,/content/xray_data/XraysData/test/normal/6 (2) - Copy.png
+X0881,test,normal,/content/xray_data/XraysData/test/normal/8 - Copy (2) - Copy.png
+X0882,test,normal,/content/xray_data/XraysData/test/normal/10 - Copy.png
+X0883,test,normal,/content/xray_data/XraysData/test/normal/24.png
+X0884,test,normal,/content/xray_data/XraysData/test/normal/8.png
+X0885,test,normal,/content/xray_data/XraysData/test/normal/6.png
+X0886,test,normal,/content/xray_data/XraysData/test/normal/6 (2).png
+X0887,test,normal,/content/xray_data/XraysData/test/normal/7.png
+X0888,test,normal,/content/xray_data/XraysData/test/normal/11 - Copy (2).png
+X0889,test,normal,/content/xray_data/XraysData/test/normal/8 - Copy.png
+X0890,test,normal,/content/xray_data/XraysData/test/normal/12 (2) - Copy.png
+X0891,test,normal,/content/xray_data/XraysData/test/normal/23.png
+X0892,test,normal,/content/xray_data/XraysData/test/normal/7 - Copy (2) - Copy.png
+X0893,test,normal,/content/xray_data/XraysData/test/normal/10 - Copy - Copy.png
+X0894,test,normal,/content/xray_data/XraysData/test/normal/6 - Copy (2).png
+X0895,test,normal,/content/xray_data/XraysData/test/normal/11 (2) - Copy.png
+X0896,test,normal,/content/xray_data/XraysData/test/normal/7 - Copy (3).png
+X0897,test,normal,/content/xray_data/XraysData/test/normal/12 (2).png
+X0898,test,normal,/content/xray_data/XraysData/test/normal/6 - Copy (3).png
+X0899,test,normal,/content/xray_data/XraysData/test/normal/8 - Copy - Copy.png
+X0900,test,normal,/content/xray_data/XraysData/test/normal/12 - Copy - Copy.png
+X0901,test,normal,/content/xray_data/XraysData/test/normal/11 - Copy - Copy.png
+X0902,test,normal,/content/xray_data/XraysData/test/normal/10 - Copy (3).png
+X0903,test,normal,/content/xray_data/XraysData/test/normal/22.png
+X0904,test,normal,/content/xray_data/XraysData/test/normal/normal - Copy.png
+X0905,test,normal,/content/xray_data/XraysData/test/normal/7 - Copy.png
+X0906,test,normal,/content/xray_data/XraysData/test/normal/6 - Copy.png
+X0907,test,normal,/content/xray_data/XraysData/test/normal/10 (2).png
+X0908,test,normal,/content/xray_data/XraysData/test/normal/7 (2).png
+X0909,test,normal,/content/xray_data/XraysData/test/normal/10 (2) - Copy.png
+X0910,test,normal,/content/xray_data/XraysData/test/normal/12 - Copy (2) - Copy.png
+X0911,test,normal,/content/xray_data/XraysData/test/normal/11.png
+X0912,test,normal,/content/xray_data/XraysData/test/normal/24 - Copy.png
+X0913,test,normal,/content/xray_data/XraysData/test/normal/8 (2) - Copy.png
+X0914,test,normal,/content/xray_data/XraysData/test/normal/7 - Copy (2).png
+X0915,test,normal,/content/xray_data/XraysData/test/normal/25.png
+X0916,test,normal,/content/xray_data/XraysData/test/normal/8 - Copy (2).png
+X0917,test,normal,/content/xray_data/XraysData/test/normal/12 - Copy (2).png
+X0918,test,normal,/content/xray_data/XraysData/test/normal/11 - Copy (3).png
+X0919,test,normal,/content/xray_data/XraysData/test/normal/7 - Copy - Copy.png
+X0920,test,normal,/content/xray_data/XraysData/test/normal/6 - Copy (2) - Copy.png
+X0921,test,normal,/content/xray_data/XraysData/test/normal/8 - Copy (3).png
+X0922,test,normal,/content/xray_data/XraysData/test/normal/10 - Copy (2) - Copy.png
+X0923,test,normal,/content/xray_data/XraysData/test/normal/21.png
+X0924,test,normal,/content/xray_data/XraysData/test/normal/12 - Copy.png
+X0925,test,normal,/content/xray_data/XraysData/test/normal/8 (2).png
+X0926,test,normal,/content/xray_data/XraysData/test/normal/11 (2).png
+X0927,test,normal,/content/xray_data/XraysData/test/normal/10.png
+X0928,test,normal,/content/xray_data/XraysData/test/normal/7 (2) - Copy.png

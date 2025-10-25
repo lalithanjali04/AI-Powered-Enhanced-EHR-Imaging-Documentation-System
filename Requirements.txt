@@ -1,0 +1,33 @@
+# ============================================
+# AI-Powered EHR Imaging & Documentation System
+# Required Python Libraries
+# ============================================
+
+# --- Core Dependencies ---
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+
+# --- Image Processing ---
+opencv-python
+Pillow
+scikit-image
+
+# --- Machine Learning & Deep Learning ---
+scikit-learn
+torch
+torchvision
+torchaudio
+
+# --- Utility Libraries ---
+einops
+timm
+
+# --- Visualization & Reports ---
+plotly
+jupyter
+notebook
+
+
