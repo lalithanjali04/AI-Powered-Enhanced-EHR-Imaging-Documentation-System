@@ -178,6 +178,7 @@ Below is a sample before-and-after visualization generated during the enhancemen
 |----------------|----------------|
 | <img src="https://github.com/user-attachments/assets/d842fe4d-f20c-4522-aa33-1a85402a3f1c" alt="Original Prescription" width="346" height="197"> | <img src="https://github.com/user-attachments/assets/f8a6b752-37fb-4f1c-9d1c-b7948190224d" alt="Enhanced Prescription" width="334" height="180"> |
 
+
 ---
 
 ## 🧠 Key Learnings
